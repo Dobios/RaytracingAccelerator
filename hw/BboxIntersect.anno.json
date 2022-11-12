@@ -1,7 +1,0 @@
-[
-  {
-    "class":"firrtl.transforms.BlackBoxResourceAnno",
-    "target":"BboxIntersect.Bbox_RayIntersect",
-    "resourceId":"/bboxIntersect/rayIntersect.v"
-  }
-]

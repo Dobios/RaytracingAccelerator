@@ -1,7 +1,0 @@
-[
-  {
-    "class":"firrtl.transforms.BlackBoxResourceAnno",
-    "target":"TraversalControl.XilinxSimpleDualPortNoChangeBRAM",
-    "resourceId":"/XilinxSimpleDualPortNoChangeBRAM.v"
-  }
-]
